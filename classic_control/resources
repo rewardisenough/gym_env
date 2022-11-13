@@ -1,0 +1,2 @@
+CartPole using PPO: https://www.anyscale.com/blog/an-introduction-to-reinforcement-learning-with-openai-gym-rllib-and-google
+Pendulum using SAC: https://docs.ray.io/en/latest/rllib/rllib-training.html
