@@ -4,4 +4,4 @@ Tune examples of TD3 from RLlib looks promising for solving multiple Mujoco envi
 
 # TO-DO list
 
-* [ ] Learn how to train models asynchronously. How to train model while laptop is closed.
+* [x] Learn how to train models asynchronously. How to train model while laptop is closed.
