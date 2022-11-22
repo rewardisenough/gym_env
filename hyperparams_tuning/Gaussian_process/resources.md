@@ -1,3 +1,4 @@
+Bayesian Optimization: https://distill.pub/2020/bayesian-optimization/
 starting literature: https://distill.pub/2019/visual-exploration-gaussian-processes/
 
 Two exercises in python: 
