@@ -2,5 +2,5 @@ starting literature: https://distill.pub/2019/visual-exploration-gaussian-proces
 
 Two exercises in python: 
 
-1. https://www.dominodatalab.com/blog/fitting-gaussian-process-models-python
-2. https://nbviewer.org/github/adamian/adamian.github.io/blob/master/talks/Brown2016.ipynb
+* [ ] https://www.dominodatalab.com/blog/fitting-gaussian-process-models-python
+* [X] https://nbviewer.org/github/adamian/adamian.github.io/blob/master/talks/Brown2016.ipynb
