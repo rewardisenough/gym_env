@@ -1,3 +1,3 @@
 # gym_env
 
-Solving OpenAi's gym enviornment using Ray RLlib.
+Solving OpenAi's gym enviornment using Ray.
